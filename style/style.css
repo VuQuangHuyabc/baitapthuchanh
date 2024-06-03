@@ -773,7 +773,7 @@ header .header_bottom .list-unstyled img {
     right: 0;
 }
 #product_hight .title h1 {
-    background-image: url('/public/images/title_nb.png');
+    background-image: url(images/title_nb.png);
     text-transform: uppercase;
     color: #fff;
     font-size: 35px;
